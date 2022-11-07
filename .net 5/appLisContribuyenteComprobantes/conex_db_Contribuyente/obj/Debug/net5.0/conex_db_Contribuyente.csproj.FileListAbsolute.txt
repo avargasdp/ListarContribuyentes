@@ -1,0 +1,12 @@
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\bin\Debug\net5.0\conex_db_Contribuyente.deps.json
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\bin\Debug\net5.0\conex_db_Contribuyente.dll
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\bin\Debug\net5.0\ref\conex_db_Contribuyente.dll
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\bin\Debug\net5.0\conex_db_Contribuyente.pdb
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\obj\Debug\net5.0\conex_db_Contribuyente.csproj.AssemblyReference.cache
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\obj\Debug\net5.0\conex_db_Contribuyente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\obj\Debug\net5.0\conex_db_Contribuyente.AssemblyInfoInputs.cache
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\obj\Debug\net5.0\conex_db_Contribuyente.AssemblyInfo.cs
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\obj\Debug\net5.0\conex_db_Contribuyente.csproj.CoreCompileInputs.cache
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\obj\Debug\net5.0\conex_db_Contribuyente.dll
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\obj\Debug\net5.0\ref\conex_db_Contribuyente.dll
+C:\Users\AlbertVarfas\Source\repos\appLisContribuyenteComprobantes\conex_db_Contribuyente\obj\Debug\net5.0\conex_db_Contribuyente.pdb
