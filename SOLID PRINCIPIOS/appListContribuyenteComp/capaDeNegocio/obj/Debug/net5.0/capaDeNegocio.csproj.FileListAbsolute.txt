@@ -1,0 +1,16 @@
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\bin\Debug\net5.0\capaDeNegocio.deps.json
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\bin\Debug\net5.0\capaDeNegocio.dll
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\bin\Debug\net5.0\ref\capaDeNegocio.dll
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\bin\Debug\net5.0\capaDeNegocio.pdb
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\bin\Debug\net5.0\ClassDB.dll
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\bin\Debug\net5.0\ClassDB.pdb
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\obj\Debug\net5.0\capaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\obj\Debug\net5.0\capaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\obj\Debug\net5.0\capaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\obj\Debug\net5.0\capaDeNegocio.AssemblyInfo.cs
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\obj\Debug\net5.0\capaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\obj\Debug\net5.0\capaDeNegocio.csproj.CopyComplete
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\obj\Debug\net5.0\capaDeNegocio.dll
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\obj\Debug\net5.0\ref\capaDeNegocio.dll
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\obj\Debug\net5.0\capaDeNegocio.pdb
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\capaDeNegocio\bin\Debug\net5.0\capaDeNegocio.dll.config

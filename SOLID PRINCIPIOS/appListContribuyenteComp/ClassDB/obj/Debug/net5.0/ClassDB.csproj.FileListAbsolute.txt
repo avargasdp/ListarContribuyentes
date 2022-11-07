@@ -1,0 +1,12 @@
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\bin\Debug\net5.0\ClassDB.deps.json
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\bin\Debug\net5.0\ClassDB.dll
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\bin\Debug\net5.0\ref\ClassDB.dll
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\bin\Debug\net5.0\ClassDB.pdb
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\obj\Debug\net5.0\ClassDB.csproj.AssemblyReference.cache
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\obj\Debug\net5.0\ClassDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\obj\Debug\net5.0\ClassDB.AssemblyInfoInputs.cache
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\obj\Debug\net5.0\ClassDB.AssemblyInfo.cs
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\obj\Debug\net5.0\ClassDB.csproj.CoreCompileInputs.cache
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\obj\Debug\net5.0\ClassDB.dll
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\obj\Debug\net5.0\ref\ClassDB.dll
+C:\Users\AlbertVarfas\Desktop\appContribuyente\appListContribuyenteComp\ClassDB\obj\Debug\net5.0\ClassDB.pdb

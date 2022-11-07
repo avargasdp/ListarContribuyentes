@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\appListContribuyenteComp\\webapiListContribuyenteComp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\appListContribuyenteComp\\webapiListContribuyenteComp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\appListContribuyenteComp\\webapiListContribuyenteComp.csproj",
+        "projectName": "webapiListContribuyenteComp",
+        "projectPath": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\appListContribuyenteComp\\webapiListContribuyenteComp.csproj",
+        "packagesPath": "C:\\Users\\AlbertVarfas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\appListContribuyenteComp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AlbertVarfas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\capaDeNegocio\\capaDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\capaDeNegocio\\capaDeNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\capaDeNegocio\\capaDeNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\capaDeNegocio\\capaDeNegocio.csproj",
+        "projectName": "capaDeNegocio",
+        "projectPath": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\capaDeNegocio\\capaDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\AlbertVarfas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\capaDeNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AlbertVarfas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\ClassDB\\ClassDB.csproj": {
+                "projectPath": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\ClassDB\\ClassDB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "System.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.0.2.45, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\ClassDB\\ClassDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\ClassDB\\ClassDB.csproj",
+        "projectName": "ClassDB",
+        "projectPath": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\ClassDB\\ClassDB.csproj",
+        "packagesPath": "C:\\Users\\AlbertVarfas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlbertVarfas\\Desktop\\appContribuyente\\appListContribuyenteComp\\ClassDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AlbertVarfas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
