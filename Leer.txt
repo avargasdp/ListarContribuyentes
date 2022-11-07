@@ -1,0 +1,21 @@
+Saludos, 11/7/2022 7:19 pm
+Al momento de realizar la practica me percate de que solicitan como requisito tener en cuenta los principios SOLID,
+separacion por capas etc. Actualmente no estoy desarrollando basado en estos principios el proyecto appContribuyente
+esta basado en la investigacion que pude realizar el dia de hoy sobre esta forma de desarrollo.
+
+Por otro lado he agreado otro proyecto llamado appLisContribuyenteComprobantes, este proyecto es cumple con las
+funcionalidades solicitadas. 
+
+
+
+
+Gracias por el tiempo brindado. 
+
+
+
+
+
+
+
+
+P.D : Ya estoy trabajando en aprender SOLID
